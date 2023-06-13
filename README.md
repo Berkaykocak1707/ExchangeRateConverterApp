@@ -1,32 +1,34 @@
 # ExchangeRateConverterApp
 
-The Currency Converter is a Windows Form application that allows users to convert an amount from one currency to another. It provides the buying and selling rates for different currencies.
+Currency Converter is a Windows Forms application that allows users to convert an amount from one currency to another. It provides buy and sell rates for different currencies.
 
 ## Features
 
 - Convert the entered amount from one currency to another.
-- Display the buying and selling rates for various currencies.
-- Real-time update of converted amounts based on the selected currency.
+- View buying and selling rates for various currencies.
+- Real-time update of converted amounts according to the selected currency.
 
-## Technologies Used
+## Used Technologies
 
 - C# programming language
 - Windows Forms for the user interface
 
 ## How to Use
 
-1. Clone the repository
+1. Clone the repository:
 
 2. Open the solution in Visual Studio.
 
 3. Build and run the application.
 
-4. Enter the amount in the specified currency.
+4. Enter the amount to be converted.
 
-5. Select the target currency from the dropdown.
+5. Select "Sell" or "Buy" from the dropdown menu.
 
-6. The converted amounts will be displayed for both buying and selling rates.
+6. The converted amount, along with the corresponding buy or sell rate, will be displayed.
 
-## Contributing
+## Contribution
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+
+
